@@ -1,0 +1,9 @@
+## Starter for AutoBio log
+
+This file is a starter to be used when initializing a GitHub-backed log. Do not replace the active questions_log.md; use this as a template for future runs.
+
+- This starter helps you bootstrap a GitHub repo for AutoBio.
+- Place the real log file at questions_log.md in this directory.
+- Add .gitignore entries as needed to keep sensitive data out of GitHub.
+
+When ready, you can copy the structure from this starter into a new repo and begin logging anew.
